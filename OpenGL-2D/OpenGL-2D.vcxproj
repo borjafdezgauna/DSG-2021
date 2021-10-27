@@ -12,7 +12,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectName>02.OpenGL-2D</ProjectName>
+    <ProjectName>OpenGL-Game</ProjectName>
     <ProjectGuid>{A1629DD3-6274-42FD-8F6D-75918D1BB1EC}</ProjectGuid>
     <RootNamespace>OpenGL-2D</RootNamespace>
     <Keyword>Win32Proj</Keyword>
