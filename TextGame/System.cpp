@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "System.h"
 #define NOMINMAX
 #define WIN32_LEAN_AND_MEAN

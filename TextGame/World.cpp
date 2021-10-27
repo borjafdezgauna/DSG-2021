@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "World.h"
 #include <iostream>
 #include <stdlib.h>
@@ -7,7 +6,6 @@
 #include <thread>
 #include <fstream>
 #include "System.h"
-#include "stdafx.h"
 #include <stdio.h>
 #include <istream>
 #include <fstream>
